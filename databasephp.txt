@@ -1,0 +1,7 @@
+Tula 1 0
+Moscow 1 2
+H 5 7
+Moscow 2 3
+Moscow 3 1
+MoScOw 0 4
+Moscow 4 l
